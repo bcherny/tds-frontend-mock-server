@@ -1,0 +1,595 @@
+[{
+  "lat": 37.7847382,
+  "lng": -122.4091996,
+  "id": 10,
+  "service_area_id": "Alameda-94501",
+  "population": 713
+}, {
+  "lat": 37.7347732,
+  "lng": -122.4556654,
+  "id": 20,
+  "service_area_id": "Alameda-94501",
+  "population": 482
+}, {
+  "lat": 37.7879155,
+  "lng": -122.4174338,
+  "id": 30,
+  "service_area_id": "Alameda-94501",
+  "population": 518
+}, {
+  "lat": 37.794013327475,
+  "lng": -122.42979224608,
+  "id": 40,
+  "service_area_id": "Alameda-94501",
+  "population": 484
+}, {
+  "lat": 37.8010963,
+  "lng": -122.4195558,
+  "id": 50,
+  "service_area_id": "Alameda-94501",
+  "population": 310
+}, {
+  "lat": 37.7590733,
+  "lng": -122.4290386,
+  "id": 60,
+  "service_area_id": "Alameda-94501",
+  "population": 282
+}, {
+  "lat": 37.7925153,
+  "lng": -122.4382307,
+  "id": 70,
+  "service_area_id": "Alameda-94501",
+  "population": 533
+}, {
+  "lat": 37.777463,
+  "lng": -122.4131762,
+  "id": 80,
+  "service_area_id": "Alameda-94501",
+  "population": 513
+}, {
+  "lat": 37.7872457,
+  "lng": -122.4187461,
+  "id": 90,
+  "service_area_id": "Alameda-94501",
+  "population": 761
+}, {
+  "lat": 37.7861649,
+  "lng": -122.414424,
+  "id": 100,
+  "service_area_id": "Alameda-94501",
+  "population": 232
+}, {
+  "lat": 37.7536008,
+  "lng": -122.4067403,
+  "id": 110,
+  "service_area_id": "Alameda-94501",
+  "population": 701
+}, {
+  "lat": 37.7925153,
+  "lng": -122.4382307,
+  "id": 120,
+  "service_area_id": "Alameda-94501",
+  "population": 86
+}, {
+  "lat": 37.7592288,
+  "lng": -122.4142591,
+  "id": 130,
+  "service_area_id": "Alameda-94501",
+  "population": 505
+}, {
+  "lat": 37.8301999,
+  "lng": -122.2707319,
+  "id": 140,
+  "service_area_id": "Alameda-94501",
+  "population": 964
+}, {
+  "lat": 37.764764806022,
+  "lng": -122.42396945363,
+  "id": 150,
+  "service_area_id": "Alameda-94501",
+  "population": 979
+}, {
+  "lat": 37.7907688,
+  "lng": -122.4095738,
+  "id": 160,
+  "service_area_id": "Alameda-94501",
+  "population": 933
+}, {
+  "lat": 37.7814666,
+  "lng": -122.4015577,
+  "id": 170,
+  "service_area_id": "Alameda-94501",
+  "population": 485
+}, {
+  "lat": 37.7828786,
+  "lng": -122.4146017,
+  "id": 180,
+  "service_area_id": "Alameda-94501",
+  "population": 806
+}, {
+  "lat": 37.783352,
+  "lng": -122.4739295,
+  "id": 190,
+  "service_area_id": "Alameda-94501",
+  "population": 833
+}, {
+  "lat": 37.7863965,
+  "lng": -122.414493,
+  "id": 200,
+  "service_area_id": "Alameda-94501",
+  "population": 545
+}, {
+  "lat": 37.7852612,
+  "lng": -122.414262,
+  "id": 210,
+  "service_area_id": "Alameda-94501",
+  "population": 146
+}, {
+  "lat": 37.77597,
+  "lng": -122.41074599999999,
+  "id": 220,
+  "service_area_id": "Alameda-94501",
+  "population": 798
+}, {
+  "lat": 37.7852612,
+  "lng": -122.414262,
+  "id": 230,
+  "service_area_id": "Alameda-94501",
+  "population": 414
+}, {
+  "lat": 37.727782000000005,
+  "lng": -122.393851,
+  "id": 240,
+  "service_area_id": "Alameda-94501",
+  "population": 393
+}, {
+  "lat": 37.790507500000004,
+  "lng": -122.3962536,
+  "id": 250,
+  "service_area_id": "Alameda-94501",
+  "population": 812
+}, {
+  "lat": 37.7831066,
+  "lng": -122.4136744,
+  "id": 260,
+  "service_area_id": "Alameda-94501",
+  "population": 873
+}, {
+  "lat": 37.7892932,
+  "lng": -122.4123523,
+  "id": 270,
+  "service_area_id": "Alameda-94501",
+  "population": 552
+}, {
+  "lat": 37.7965414,
+  "lng": -122.4111801,
+  "id": 280,
+  "service_area_id": "Alameda-94501",
+  "population": 854
+}, {
+  "lat": 37.7847382,
+  "lng": -122.4091996,
+  "id": 290,
+  "service_area_id": "Alameda-94501",
+  "population": 503
+}, {
+  "lat": 37.7925153,
+  "lng": -122.4382307,
+  "id": 300,
+  "service_area_id": "Alameda-94501",
+  "population": 615
+}, {
+  "lat": 37.804643,
+  "lng": -122.4428779,
+  "id": 310,
+  "service_area_id": "Alameda-94501",
+  "population": 18
+}, {
+  "lat": 37.7598648,
+  "lng": -122.4147977,
+  "id": 320,
+  "service_area_id": "Alameda-94501",
+  "population": 492
+}, {
+  "lat": 37.7349074,
+  "lng": -122.4168489,
+  "id": 330,
+  "service_area_id": "Alameda-94501",
+  "population": 397
+}, {
+  "lat": 37.785637900000005,
+  "lng": -122.469242,
+  "id": 340,
+  "service_area_id": "Alameda-94501",
+  "population": 229
+}, {
+  "lat": 37.78718629999999,
+  "lng": -122.4192291,
+  "id": 350,
+  "service_area_id": "Alameda-94501",
+  "population": 665
+}, {
+  "lat": 37.7892932,
+  "lng": -122.4123523,
+  "id": 360,
+  "service_area_id": "Alameda-94501",
+  "population": 600
+}, {
+  "lat": 37.7976485,
+  "lng": -122.4067342,
+  "id": 370,
+  "service_area_id": "Alameda-94501",
+  "population": 524
+}, {
+  "lat": 37.7858422,
+  "lng": -122.4185638,
+  "id": 380,
+  "service_area_id": "Alameda-94501",
+  "population": 365
+}, {
+  "lat": 37.95657449999999,
+  "lng": -122.5561917,
+  "id": 390,
+  "service_area_id": "Alameda-94501",
+  "population": 300
+}, {
+  "lat": 37.7824802,
+  "lng": -122.4535476,
+  "id": 400,
+  "service_area_id": "Alameda-94501",
+  "population": 591
+}, {
+  "lat": 37.7852205,
+  "lng": -122.4159761,
+  "id": 410,
+  "service_area_id": "Alameda-94501",
+  "population": 990
+}, {
+  "lat": 37.774773,
+  "lng": -122.427361,
+  "id": 420,
+  "service_area_id": "Alameda-94501",
+  "population": 52
+}, {
+  "lat": 37.7839296,
+  "lng": -122.4163165,
+  "id": 430,
+  "service_area_id": "Alameda-94501",
+  "population": 231
+}, {
+  "lat": 37.7892932,
+  "lng": -122.4123523,
+  "id": 440,
+  "service_area_id": "Alameda-94501",
+  "population": 768
+}, {
+  "lat": 37.78718629999999,
+  "lng": -122.4192291,
+  "id": 450,
+  "service_area_id": "Alameda-94501",
+  "population": 229
+}, {
+  "lat": 37.7925153,
+  "lng": -122.4382307,
+  "id": 460,
+  "service_area_id": "Alameda-94501",
+  "population": 841
+}, {
+  "lat": 37.7925153,
+  "lng": -122.4382307,
+  "id": 470,
+  "service_area_id": "Alameda-94501",
+  "population": 661
+}, {
+  "lat": 37.7508798,
+  "lng": -122.4295106,
+  "id": 480,
+  "service_area_id": "Alameda-94501",
+  "population": 489
+}, {
+  "lat": 37.7357201,
+  "lng": -122.4228093,
+  "id": 490,
+  "service_area_id": "Alameda-94501",
+  "population": 333
+}, {
+  "lat": 37.775908785269,
+  "lng": -122.42452517712,
+  "id": 500,
+  "service_area_id": "Alameda-94501",
+  "population": 505
+}, {
+  "lat": 37.7852612,
+  "lng": -122.414262,
+  "id": 510,
+  "service_area_id": "Alameda-94501",
+  "population": 617
+}, {
+  "lat": 37.78561699999999,
+  "lng": -122.412155,
+  "id": 520,
+  "service_area_id": "Alameda-94501",
+  "population": 141
+}, {
+  "lat": 37.7847382,
+  "lng": -122.4091996,
+  "id": 530,
+  "service_area_id": "Alameda-94501",
+  "population": 947
+}, {
+  "lat": 37.7480127,
+  "lng": -122.4434925,
+  "id": 540,
+  "service_area_id": "Alameda-94501",
+  "population": 680
+}, {
+  "lat": 37.7981684,
+  "lng": -122.4394472,
+  "id": 550,
+  "service_area_id": "Alameda-94501",
+  "population": 745
+}, {
+  "lat": 37.7985528,
+  "lng": -122.4059284,
+  "id": 560,
+  "service_area_id": "Alameda-94501",
+  "population": 628
+}, {
+  "lat": 37.7872457,
+  "lng": -122.4187461,
+  "id": 570,
+  "service_area_id": "Alameda-94501",
+  "population": 440
+}, {
+  "lat": 37.7674741,
+  "lng": -122.4285306,
+  "id": 580,
+  "service_area_id": "Alameda-94501",
+  "population": 961
+}, {
+  "lat": 37.7861649,
+  "lng": -122.414424,
+  "id": 590,
+  "service_area_id": "Alameda-94501",
+  "population": 287
+}, {
+  "lat": 37.78718629999999,
+  "lng": -122.4192291,
+  "id": 600,
+  "service_area_id": "Alameda-94501",
+  "population": 644
+}, {
+  "lat": 37.7850378,
+  "lng": -122.4171045,
+  "id": 610,
+  "service_area_id": "Alameda-94501",
+  "population": 713
+}, {
+  "lat": 37.8858697,
+  "lng": -122.4677895,
+  "id": 620,
+  "service_area_id": "Alameda-94501",
+  "population": 880
+}, {
+  "lat": 37.7892932,
+  "lng": -122.4123523,
+  "id": 630,
+  "service_area_id": "Alameda-94501",
+  "population": 312
+}, {
+  "lat": 37.7866819,
+  "lng": -122.4684794,
+  "id": 640,
+  "service_area_id": "Alameda-94501",
+  "population": 684
+}, {
+  "lat": 37.7850687,
+  "lng": -122.4164193,
+  "id": 650,
+  "service_area_id": "Alameda-94501",
+  "population": 596
+}, {
+  "lat": 37.7858422,
+  "lng": -122.4185638,
+  "id": 660,
+  "service_area_id": "Alameda-94501",
+  "population": 469
+}, {
+  "lat": 37.7598648,
+  "lng": -122.4147977,
+  "id": 670,
+  "service_area_id": "Alameda-94501",
+  "population": 80
+}, {
+  "lat": 37.7858422,
+  "lng": -122.4185638,
+  "id": 680,
+  "service_area_id": "Alameda-94501",
+  "population": 991
+}, {
+  "lat": 37.789398,
+  "lng": -122.4127312,
+  "id": 690,
+  "service_area_id": "Alameda-94501",
+  "population": 561
+}, {
+  "lat": 37.7907831,
+  "lng": -122.4094509,
+  "id": 700,
+  "service_area_id": "Alameda-94501",
+  "population": 851
+}, {
+  "lat": 37.786295,
+  "lng": -122.414992,
+  "id": 710,
+  "service_area_id": "Alameda-94501",
+  "population": 390
+}, {
+  "lat": 37.7858302,
+  "lng": -122.4015144,
+  "id": 720,
+  "service_area_id": "Alameda-94501",
+  "population": 756
+}, {
+  "lat": 37.7892932,
+  "lng": -122.4123523,
+  "id": 730,
+  "service_area_id": "Alameda-94501",
+  "population": 0
+}, {
+  "lat": 37.75908654243,
+  "lng": -122.38941810716,
+  "id": 740,
+  "service_area_id": "Alameda-94501",
+  "population": 190
+}, {
+  "lat": 37.7746817,
+  "lng": -122.478998,
+  "id": 750,
+  "service_area_id": "Alameda-94501",
+  "population": 50
+}, {
+  "lat": 37.7847382,
+  "lng": -122.4091996,
+  "id": 760,
+  "service_area_id": "Alameda-94501",
+  "population": 306
+}, {
+  "lat": 37.7852868,
+  "lng": -122.41479,
+  "id": 770,
+  "service_area_id": "Alameda-94501",
+  "population": 711
+}, {
+  "lat": 37.7892932,
+  "lng": -122.4123523,
+  "id": 780,
+  "service_area_id": "Alameda-94501",
+  "population": 30
+}, {
+  "lat": 37.7858422,
+  "lng": -122.4185638,
+  "id": 790,
+  "service_area_id": "Alameda-94501",
+  "population": 468
+}, {
+  "lat": 37.777617400000004,
+  "lng": -122.4261667,
+  "id": 800,
+  "service_area_id": "Alameda-94501",
+  "population": 197
+}, {
+  "lat": 37.780204000000005,
+  "lng": -122.48834599999999,
+  "id": 810,
+  "service_area_id": "Alameda-94501",
+  "population": 886
+}, {
+  "lat": 37.7590587,
+  "lng": -122.4484882,
+  "id": 820,
+  "service_area_id": "Alameda-94501",
+  "population": 442
+}, {
+  "lat": 37.7894761,
+  "lng": -122.4159362,
+  "id": 830,
+  "service_area_id": "Alameda-94501",
+  "population": 700
+}, {
+  "lat": 37.7863965,
+  "lng": -122.414493,
+  "id": 840,
+  "service_area_id": "Alameda-94501",
+  "population": 9
+}, {
+  "lat": 37.7590587,
+  "lng": -122.4484882,
+  "id": 850,
+  "service_area_id": "Alameda-94501",
+  "population": 906
+}, {
+  "lat": 37.7828786,
+  "lng": -122.4146017,
+  "id": 860,
+  "service_area_id": "Alameda-94501",
+  "population": 685
+}, {
+  "lat": 37.7759073,
+  "lng": -122.4245247,
+  "id": 870,
+  "service_area_id": "Alameda-94501",
+  "population": 28
+}, {
+  "lat": 37.8015086,
+  "lng": -122.4315256,
+  "id": 880,
+  "service_area_id": "Alameda-94501",
+  "population": 447
+}, {
+  "lat": 37.79992,
+  "lng": -122.437463,
+  "id": 890,
+  "service_area_id": "Alameda-94501",
+  "population": 974
+}, {
+  "lat": 37.754507000000004,
+  "lng": -122.44836799999999,
+  "id": 900,
+  "service_area_id": "Alameda-94501",
+  "population": 272
+}, {
+  "lat": 37.7992369,
+  "lng": -122.446832,
+  "id": 910,
+  "service_area_id": "Alameda-94501",
+  "population": 657
+}, {
+  "lat": 37.731147,
+  "lng": -122.453149,
+  "id": 920,
+  "service_area_id": "Alameda-94501",
+  "population": 33
+}, {
+  "lat": 37.774002,
+  "lng": -122.466283,
+  "id": 930,
+  "service_area_id": "Alameda-94501",
+  "population": 639
+}, {
+  "lat": 37.7852205,
+  "lng": -122.4159761,
+  "id": 940,
+  "service_area_id": "Alameda-94501",
+  "population": 515
+}, {
+  "lat": 37.792494,
+  "lng": -122.4163244,
+  "id": 950,
+  "service_area_id": "Alameda-94501",
+  "population": 846
+}, {
+  "lat": 37.793014,
+  "lng": -122.416113,
+  "id": 960,
+  "service_area_id": "Alameda-94501",
+  "population": 455
+}, {
+  "lat": 37.7852612,
+  "lng": -122.414262,
+  "id": 970,
+  "service_area_id": "Alameda-94501",
+  "population": 197
+}, {
+  "lat": 37.7858422,
+  "lng": -122.4185638,
+  "id": 980,
+  "service_area_id": "Alameda-94501",
+  "population": 999
+}, {
+  "lat": 37.7865715,
+  "lng": -122.47096429999999,
+  "id": 990,
+  "service_area_id": "Alameda-94501",
+  "population": 530
+}]
